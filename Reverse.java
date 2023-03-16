@@ -1,6 +1,7 @@
 package looping;
 
 import java.util.Scanner;
+// to reverse the all natural numbers
 
 public class Reverse {
 	
